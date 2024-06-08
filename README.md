@@ -10,9 +10,7 @@ Website Link:
 (https://decadent-delights-bakery-w8h9mst.gamma.site/)
 
 Location:
-Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
-State/province/area - Selangor
-Zip code - 42600
+Street - 123 Main Street, Anytown USA
 
 Phone Number:
 +60 163591686
